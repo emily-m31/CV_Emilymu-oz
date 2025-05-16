@@ -1,29 +1,27 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Emily Yuliana Muñoz Gordillo 
+**Profesión:** Tecnologo en analisis y desarrollo de software 
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** (emilymunoz097@gmail.com)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Sena** _(2025- Actualidad)_
+- Programador en desarrollo de software.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Sena** _(2025 - actualidad)_
+- Tecnologo en analisis y desarrollo de software.
+## 🎓 Educación
+### **Sena** _(2023-2024)
+- Tecnico en sistemas 
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **conocimiento de ingles B1**
+- **conocimiento basico de TIC**
+- **manejo de maquinas virtuales**
 
 ---
 
