@@ -12,16 +12,15 @@
 - Programador en desarrollo de software.
 
 ## 🎓 Educación
+### **Sena** _(2023-2024)
+- Tecnico en sistemas
 ### **Sena** _(2025 - actualidad)_
 - Tecnologo en analisis y desarrollo de software.
-## 🎓 Educación
-### **Sena** _(2023-2024)
-- Tecnico en sistemas 
 
 ## 💡 Habilidades
 - **conocimiento de ingles B1**
 - **conocimiento basico de TIC**
-- **manejo de maquinas virtuales**
+- **manejo basico de maquinas virtuales**
 
 ---
 
